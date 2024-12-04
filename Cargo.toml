@@ -1,0 +1,4 @@
+[workspace]
+members = ["{{project-name}}-server", "{{project-name}}-client", "{{project-name}}"]
+default-members = ["{{project-name}}-server", "{{project-name}}-client", "{{project-name}}"]
+resolver = "2"
